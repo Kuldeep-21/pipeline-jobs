@@ -6,7 +6,7 @@
       script-path: "Jenkinsfile"
       scm:
         - git:
-            url: "https://github.com/alfredodeza/static.git"
+            url: "https://github.com/kuldeep-21/static.git"
             clean: true
 
     triggers:
